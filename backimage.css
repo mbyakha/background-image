@@ -1,0 +1,41 @@
+body{
+	padding: 0;
+	background-color: #f0ffff;
+}
+
+h1{
+	height:6vh;
+	width:100%;
+	color: #f3f3f3;
+	background-color: black;
+	text-align: center;
+	font-style: italic;
+	border-radius: 3px;
+}
+
+#div1{
+	width: 50%;
+	height: 40vh;
+	background-image: url(images/flo.JPG);
+	margin: 200px;
+	border-radius: 6px;	
+}
+#div2{
+	width: 10%;
+	height: 15vh;
+	background-color: red;
+	border-radius: 50%;
+	padding: 5px;
+	background-image: url(images/mbyakha.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: red;
+	font-size: 12px;
+}
+p{
+	color:black;
+	font-size: 25px;
+	padding: 2px;
+}
+
+
